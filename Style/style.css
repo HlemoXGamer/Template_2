@@ -301,6 +301,9 @@ header nav .bars i {
   width: 40%;
   margin-bottom: 50px;
 }
+.services .content .card img {
+  margin-right: 40px;
+}
 .services .content .card .text h2 {
   color: var(--secondrycolor);
   font: size 30px;
